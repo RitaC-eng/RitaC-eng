@@ -9,6 +9,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox)
 
 
+
+
+
 ## Tecnologia que uso no meu dia
 
 <div style="display: inline_block"><br>
